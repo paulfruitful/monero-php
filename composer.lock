@@ -22,7 +22,7 @@
                 "shasum": ""
             },
             "require": {
-                "guzzlehttp/guzzle": "^6.0",
+                "guzzlehttp/guzzle": "^7.2",
                 "guzzlehttp/promises": "^1.0",
                 "php": ">=5.5",
                 "psr/http-message": "^1.0"
